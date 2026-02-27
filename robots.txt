@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://low-fade.xyz/sitemap.xml
